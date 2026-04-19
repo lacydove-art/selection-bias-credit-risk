@@ -1,4 +1,3 @@
-# selection-bias-credit-risk
 # Selection Bias in Credit Risk Modeling
 
 ## Overview
