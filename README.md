@@ -31,4 +31,4 @@ Models trained only on approved applicants are **well-ranked but poorly calibrat
 
 ## Author
 
-Mike Byers, Lacy Dove, Harelle Kelli, Aryan Sanan
+Michael Beyer, Lacy Dove, Harelle Kelli, Aryan Sanan
