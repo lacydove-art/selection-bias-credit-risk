@@ -1,4 +1,5 @@
-# Selection Bias in Credit Risk Modeling
+# Who Did We Leave Out?  
+## Selection Bias in Credit Risk Modeling
 
 ## Overview
 
